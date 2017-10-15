@@ -2,6 +2,8 @@ hogehoge
 
 fugafuga
 
+hagehage
+
 #もし変更を更新するときは
 git add .
 git commit -m "my commit!"
